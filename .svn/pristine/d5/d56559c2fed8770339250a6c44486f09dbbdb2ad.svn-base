@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\L303DK\\Desktop\\SGSP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\L303DK\\.android\\build-cache\\1b86b75e4bd86572b415ea5d36949a6412b087f6\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\L303DK\\Desktop\\SGSP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\L303DK\\.android\\build-cache\\1b86b75e4bd86572b415ea5d36949a6412b087f6\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\L303DK\\Desktop\\SGSP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\L303DK\\.android\\build-cache\\1b86b75e4bd86572b415ea5d36949a6412b087f6\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\L303DK\\Desktop\\SGSP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\L303DK\\.android\\build-cache\\1b86b75e4bd86572b415ea5d36949a6412b087f6\\output\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]

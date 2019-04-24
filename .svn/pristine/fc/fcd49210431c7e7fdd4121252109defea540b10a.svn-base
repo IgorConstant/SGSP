@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\gilvania\.android\build-cache\25c1812dc9539229946b9c67e696f1d8415c0725\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\gilvania\AndroidStudioProjects\SGSP\app\build\intermediates\pre-dexed\debug\classes_2282caf11faf69e9fc95487384dea33d5402e25f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gilvania\.android\build-cache\60ffdf7e0ab34bc5d33ad81e63772d0f42fc6d7c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\gilvania\AndroidStudioProjects\SGSP\app\build\intermediates\pre-dexed\debug\classes_2a741990c02d677f05559418f35f78ac0cb0b06d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gilvania\.android\build-cache\7e2839d02ce71af239cdca215cdd3dbca201921e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\gilvania\AndroidStudioProjects\SGSP\app\build\intermediates\pre-dexed\debug\classes_e00b8062899badf229f93521c4e91a23a2328559.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gilvania\.android\build-cache\47290f03dbf329079968ae5337f224e75da04b5d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\gilvania\AndroidStudioProjects\SGSP\app\build\intermediates\pre-dexed\debug\classes_ea3039b45d546a39173dd1ee1fa3274f5933abc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gilvania\.android\build-cache\6ca855c30961706f1c998f3f678246a58bf3139a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\gilvania\AndroidStudioProjects\SGSP\app\build\intermediates\pre-dexed\debug\classes_5e469e6e0303279e3c4bb8846980ee02704de07a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gilvania\AppData\Local\Android\android-sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\gilvania\AndroidStudioProjects\SGSP\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_774b89205460f427cf9197b506adc6f5db85491e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gilvania\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\gilvania\AndroidStudioProjects\SGSP\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_1c7b566889b41c13892f0f2a153a089aa10eff52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gilvania\.android\build-cache\dfda17cf0dde3e0c1c49f97c6d4f2870221e7938\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\gilvania\AndroidStudioProjects\SGSP\app\build\intermediates\pre-dexed\debug\classes_e14d46feca46ba274b6ad0c5f16716edf515f811.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gilvania\.android\build-cache\21c389dba9f25dd01d668d040ce650f25521c262\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\gilvania\AndroidStudioProjects\SGSP\app\build\intermediates\pre-dexed\debug\classes_57c4969ba8a3a708fa355fdf1e4fe600b89bef06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gilvania\.android\build-cache\8e6ef0faf9701925bca5a79c8ee43a0e54e6e24e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\gilvania\AndroidStudioProjects\SGSP\app\build\intermediates\pre-dexed\debug\classes_7929a079e6d989bcfd6d1b971f53dec89217db94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gilvania\.android\build-cache\4e6a0590c6ffbd56b1b7204a9a72490653a47deb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\gilvania\AndroidStudioProjects\SGSP\app\build\intermediates\pre-dexed\debug\classes_14c2f0b33d90581a7351feefac163f1cddca8f03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gilvania\.android\build-cache\394f65c96252038fcd36c3de8a7ed77c69e1efe5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\gilvania\AndroidStudioProjects\SGSP\app\build\intermediates\pre-dexed\debug\classes_cb9193ceea497e33122dd3a84e3d5699d344a22b.jar" />
+    </item>
+
+</items>

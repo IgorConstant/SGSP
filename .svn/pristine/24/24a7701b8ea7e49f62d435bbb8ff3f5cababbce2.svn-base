@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\L303DK\\Desktop\\SGSP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\L303DK\\.android\\build-cache\\1b86b75e4bd86572b415ea5d36949a6412b087f6\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\L303DK\\Desktop\\SGSP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\L303DK\\.android\\build-cache\\1b86b75e4bd86572b415ea5d36949a6412b087f6\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\L303DK\\Desktop\\SGSP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\L303DK\\.android\\build-cache\\1b86b75e4bd86572b415ea5d36949a6412b087f6\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\L303DK\\Desktop\\SGSP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\L303DK\\.android\\build-cache\\1b86b75e4bd86572b415ea5d36949a6412b087f6\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]
