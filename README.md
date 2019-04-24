@@ -1,4 +1,3 @@
-SGSP
 O Sistema de Gerenciamento Pedagógico Mobile, foi desenvolvido como projeto de conclusão de curso do Instituto Federal de Ciências e Tecnologia de São Paulo.
 
 O Aplicativo serve para o Docente enviar um relato de um aluno que esteja tendo problemas no seu desenvolvimento escolar.
