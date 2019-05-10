@@ -6,4 +6,4 @@ O Aplicativo serve para o Docente enviar um relato de um aluno que esteja tendo 
 
 Autores: Igor Henrique Constant, Giovane Mitsura Azuma, Leonardo Picanço Bottaro e Ruan Mendes.
 
-Orientadores: Claudio Roveri - Web Claudio Haruo Yamamoto - Banco de Dados Edson Murakami - Documentação do Projeto e Arquitetura do Projeto.
+Orientadores:<br> Claudio Roveri - Web <br> Claudio Haruo Yamamoto - Banco de Dados <br> Edson Murakami - Documentação do Projeto e Arquitetura do Projeto.
